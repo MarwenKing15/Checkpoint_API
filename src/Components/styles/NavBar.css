@@ -1,0 +1,18 @@
+.navLink {
+	color: white !important;
+	font-size: 20px;
+	margin: 0 5%;
+	text-decoration: none;
+}
+
+.selectedLink {
+	color: black !important;
+}
+.authLinks {
+	display: flex !important;
+	justify-content: space-around;
+}
+
+.alink {
+	display: inline;
+}
